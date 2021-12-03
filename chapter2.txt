@@ -1,2 +1,2 @@
 chapter 2
-this is chap2 to check git checkout
+this is chapter2 to check git checkout

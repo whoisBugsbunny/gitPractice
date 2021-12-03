@@ -3,3 +3,5 @@ this is a story of git.
 git init to start repostory.
 changes after git restore
 change to add final
+
+now gitignore
